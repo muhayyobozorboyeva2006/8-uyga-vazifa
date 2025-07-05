@@ -1,0 +1,164 @@
+.continer{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#hero{
+   background-color: #1391CEB2; 
+}
+.cardlar{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 700px;
+    padding-top: 30px;
+}
+.logo{
+    display: flex;
+}
+
+
+
+.menyu{
+    display: flex;
+   gap: 60px;
+   justify-content: center; 
+}
+.menyu li a{
+    text-decoration: none;
+}
+.rasm h1{
+    text-decoration: none;
+}
+header{
+    background-color:#1391CEB2 ;
+    padding-top: 30px;
+}
+.han{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.kamputor{
+        width: 700px;
+}
+.mevalar h1{
+ font-size: 60px;
+}
+.mevalar h2{
+    font-size: 30px;
+}
+.mevalar p{
+    font-size: 25px;
+}
+.mevalar button{
+    font-size: 25px;
+    padding: 30px;
+}
+.quyoshlar3{
+    font-size: 35px;
+    height: 189px;
+    width: 352px;
+    background-color: #1391CE;
+}
+.quyoshlar4{
+    font-size: 35px;
+    width: 352px;
+    height: 189px;
+    background-color: #1391CE;
+}
+.quyoshlar5{
+    font-size: 35px;
+    width: 352px;
+    height: 189px;
+    background-color: #1391CE;
+    
+}
+.quyosh{
+    align-items: center;
+    padding-top: 90px;
+    display: flex;
+    gap:30px 
+    
+}
+#hero1{
+    gap: 60px;
+}
+.versiya{
+    display: flex;
+    justify-content: center;
+padding-top: 60px;
+}
+.cardlar2{
+    width: 700px;
+
+}
+.cardlar3{
+    padding-top: 50px;
+}
+.cardlar3 h1{
+    font-size: 60px;
+    color: #1391CE;
+}
+.cardlar3 h2{
+    font-size: 45px;
+    color:#25468A;
+}
+.cardlar3 p{
+    font-size: 30px;
+}
+.matinlar{
+    display: flex;
+    justify-content: center;
+}
+.matin{
+    padding-right: 100px;
+}
+.rasm3{
+    width: 700px;
+}
+.matin h3{
+    font-size: 25px;
+    color:#25468A ;
+}
+.matin h1{
+    font-size:60px ;
+    color: #1391CE;
+}
+.matin p{
+    font-size: 30px;
+}
+.matin h2{
+    color: #1391CE;
+}
+.yozuv{
+    display: flex;
+    justify-content: center;
+}
+.yozlar h1{
+  font-size:60px ;
+
+}
+.yozlar{
+    padding-left: 10px;
+}
+.yozlar h3{
+    font-size: 30px;
+}
+.yozlar p{
+ font-size: 25px;
+}
+.paskiqism{
+    display: flex;
+    gap: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.korinish{
+    font-size: 35px;
+    
+}
+.korinish1{
+    font-size: 35px;
+    
+}
